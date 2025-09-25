@@ -1,6 +1,6 @@
 ---
 title: "Документация BrickGame v1.0 aka Tetris"
-author: "Евгений"
+author: "git: IQisDeleted"
 date: "2025-06-08"
 lang: ru
 fontfamily: "DejaVu Sans"
